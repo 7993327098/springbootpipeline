@@ -1,0 +1,6 @@
+projectKey=springbootjenkins
+serverUrl=http://localhost:9000
+serverVersion=9.9.7.96285
+dashboardUrl=http://localhost:9000/dashboard?id=springbootjenkins
+ceTaskId=AZK56WKu7PYJ_NnFhhw3
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AZK56WKu7PYJ_NnFhhw3
